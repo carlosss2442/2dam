@@ -1,0 +1,19 @@
+package prueba1;
+
+import java.util.Scanner;
+
+public class App {
+
+	public static void main(String[] args) {
+		
+		
+		System.out.print("Hola Mundo");
+		System.out.print(" Hola Mundo 2");
+		
+		Scanner teclat = new Scanner(System.in);
+
+		String nom = teclat.nextLine();
+		
+	}
+
+}

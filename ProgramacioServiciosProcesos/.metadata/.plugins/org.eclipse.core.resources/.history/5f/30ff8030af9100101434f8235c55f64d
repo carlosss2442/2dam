@@ -1,0 +1,19 @@
+package EjerciciosT1;
+
+import java.util.Scanner;
+
+public class ejercicio12 {
+
+	public static void main(String[] args) {
+		
+		int num;
+		
+		for (int i = 0; i < 10; i++) {
+			Scanner teclado = new Scanner(System.in);
+			num = teclado.nextInt();
+			
+		}
+
+	}
+
+}

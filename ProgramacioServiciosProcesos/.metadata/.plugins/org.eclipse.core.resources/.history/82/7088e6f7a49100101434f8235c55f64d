@@ -1,0 +1,16 @@
+package EjerciciosT1;
+
+import java.util.Scanner;
+
+public class ejercicio8 {
+
+	public static void main(String[] args) {
+		
+		Scanner teclado = new Scanner(System.in);
+		int num = teclado.nextInt();
+		System.out.println("Introduce un numero del 1 al 12: ");
+		
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\catesa\OneDrive - Florida Centre de Formació Coop.V\Documentos\2doDAM\AcesoDatos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1496666497.index
+1863061142.index

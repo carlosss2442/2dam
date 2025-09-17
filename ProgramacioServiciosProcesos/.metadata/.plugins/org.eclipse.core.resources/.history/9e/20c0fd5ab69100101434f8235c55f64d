@@ -1,0 +1,19 @@
+package EjerciciosT1;
+import java.util.Scanner;
+public class ejercicio14 {
+
+	public static void main(String[] args) {
+		
+	System.out.println("Ingresa el radio de una circumferencia: ");
+	Scanner teclado = new Scanner(System.in);
+	double radio = teclado.nextDouble();
+	double diametro = 0;
+	double area = 0;
+	
+	diametro = radio + radio;
+	
+		
+		
+	}
+
+}

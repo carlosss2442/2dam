@@ -1,0 +1,32 @@
+package EjerciciosT1;
+
+import java.util.Scanner;
+
+public class ejercicio4 {
+
+	public static void main(String[] args) {
+		
+		Scanner teclado = new Scanner(System.in);
+		System.out.println("numero 1: ");
+		int num1 = teclado.nextInt();
+		System.out.println("Numero 2: ");
+		int num2 = teclado.nextInt();
+		
+		if (num1 == num2) {
+			System.out.println("Los numeros Son iguales");
+		} else 
+		{
+			 System.out.println("El numero mayor es: " + Math.max(num1, num2));
+			 System.out.println("El numero menor es: " + Math.min(num1, num2));
+			 
+		}
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

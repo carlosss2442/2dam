@@ -1,0 +1,23 @@
+package Ejercicio1;
+
+import java.util.Scanner;
+
+public class ejercicio6 {
+
+	public static void main(String[] args) {
+		
+		int num;
+		int resultado = 0;
+		
+		for (int i = 0; i < 5; i++) {
+			Scanner teclado = new Scanner(System.in);
+			System.out.println("numero    " + (i +1) + " : ");
+			num = teclado.nextInt();
+			resultado = resultado + num;
+		}
+		
+		System.out.println("La suma de los 5 numeris es: " + resultado);
+
+	}
+
+}

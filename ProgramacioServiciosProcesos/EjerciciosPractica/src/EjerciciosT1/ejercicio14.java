@@ -1,0 +1,22 @@
+package EjerciciosT1;
+import java.util.Scanner;
+public class ejercicio14 {
+
+	public static void main(String[] args) {
+		
+	System.out.println("Ingresa el radio de una circuferencia: ");
+	Scanner teclado = new Scanner(System.in);
+	double radio = teclado.nextDouble();
+	double diametro = 0;
+	double area = 0;
+	
+	diametro = radio + radio;
+	area = Math.PI * Math.pow(radio, 2);
+	double redondeo = Math.round(area * 1000.0) / 1000.0;
+	System.out.println("El diametro es: " + diametro);
+	System.out.println("El area es: " + redondeo);
+		
+		
+	}
+
+}
