@@ -52,5 +52,7 @@ console.log(multi);
 
 // Utilitza.reduce() per concatenar ['Hola', 'món']
 const palabra = ['Hola', 'món'];
-const conca = palabra.reduce((acc, el) =>  acc += el + " ", "");
+const conca = palabra.reduce((acc, el) =>  acc = el, '');
 console.log(conca);
+
+
