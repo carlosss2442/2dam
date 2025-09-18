@@ -34,3 +34,23 @@ const fruits = ["poma", "pera", "plàtan"];
 fruits.forEach((fruit, index) => {
  console.log(index, fruit);
 });
+
+//1. Utilitza .filter() per quedar-te només amb els nombres parells de l’array [1, 2, 3, 4, 5, 6]
+const numbers = [1, 2, 3, 4, 5, 6];
+const pares = numbers.filter(e => e % 2 === 0);
+console.log(pares);
+
+// 2. Utilitza.filter() per trobar les paraules més llargues de 3 lletres en ["sol", "pluja", "mar"].
+const largas = ["sol", "pluja", "mar"];
+const masDe3 = largas.filter((pos) => pos.length > 3);
+console.log(masDe3);
+
+// . Utilitza.reduce() per multiplicar tots els números de [2, 3, 4]
+const nu = [2, 3, 4];
+const multi = nu.reduce((acc, num) => acc * num,1);
+console.log(multi);
+
+// Utilitza.reduce() per concatenar ['Hola', 'món']
+const palabra = ['Hola', 'món'];
+const conca = palabra.reduce((acc, el) =>  acc += el + " ", "");
+console.log(conca);

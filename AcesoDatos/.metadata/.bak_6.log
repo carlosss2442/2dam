@@ -7,9 +7,9 @@ Framework arguments:  -product org.eclipse.epp.package.java.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
 
 This is a continuation of log file C:\Users\catesa\OneDrive - Florida Centre de Formació Coop.V\Documentos\2doDAM\AcesoDatos\.metadata\.bak_5.log
-Created Time: 2025-09-11 19:31:20.900
+Created Time: 2025-09-11 19:32:13.527
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.901
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.528
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -47,7 +47,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.905
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.532
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -85,7 +85,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.909
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.535
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -123,7 +123,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.913
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.539
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -161,7 +161,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.917
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.543
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -199,7 +199,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.920
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.547
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -237,7 +237,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.924
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.551
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -275,7 +275,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.927
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.555
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -313,7 +313,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.931
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.559
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -351,7 +351,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.933
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.562
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -389,7 +389,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.936
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.565
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -427,7 +427,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.939
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.568
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -465,7 +465,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.942
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.572
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -503,7 +503,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.945
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.576
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -541,7 +541,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.947
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.579
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -579,7 +579,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.950
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.582
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -617,7 +617,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.952
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.585
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -655,7 +655,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.955
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.588
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -693,7 +693,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.958
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.591
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -731,7 +731,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.960
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.594
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -769,7 +769,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.963
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.597
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -807,7 +807,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.965
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.600
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -845,7 +845,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.968
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.603
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -883,7 +883,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.971
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.606
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -921,7 +921,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.974
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.610
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -959,7 +959,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.977
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.613
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -997,7 +997,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.979
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.616
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1035,7 +1035,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.982
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.619
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1073,7 +1073,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.984
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.622
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1111,7 +1111,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.987
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.625
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1149,7 +1149,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.989
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.628
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1187,7 +1187,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.991
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.631
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1225,7 +1225,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.994
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.634
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1263,7 +1263,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.997
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.637
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1301,7 +1301,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:20.999
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.640
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1339,7 +1339,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.002
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.644
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1377,7 +1377,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.004
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.647
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1415,7 +1415,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.006
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.650
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1453,7 +1453,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.009
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.653
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1491,7 +1491,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.012
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.656
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1529,7 +1529,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.014
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.660
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1567,7 +1567,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.017
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.662
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1605,7 +1605,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.019
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.665
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1643,7 +1643,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.021
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.668
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1681,7 +1681,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.024
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.683
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1719,7 +1719,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.026
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.686
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1757,7 +1757,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.029
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.688
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1795,7 +1795,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.031
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.691
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1833,7 +1833,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.034
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.693
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1871,7 +1871,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.036
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.696
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1909,7 +1909,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.039
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.698
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1947,7 +1947,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.041
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.700
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -1985,7 +1985,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.044
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.703
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2023,7 +2023,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.046
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.705
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2061,7 +2061,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.048
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.708
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2099,7 +2099,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.051
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.710
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2137,7 +2137,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.054
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.713
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2175,7 +2175,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.056
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.715
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2213,7 +2213,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.058
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.717
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2251,7 +2251,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.062
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.720
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2289,7 +2289,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.064
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.722
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2327,7 +2327,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.067
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.725
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2365,7 +2365,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.069
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.728
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2403,7 +2403,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.072
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.730
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2441,7 +2441,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.074
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.732
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2479,7 +2479,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.078
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.735
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2517,7 +2517,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.081
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.737
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2555,7 +2555,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.084
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.739
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2593,7 +2593,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.086
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.743
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2631,7 +2631,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.089
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.745
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2669,7 +2669,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.091
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.748
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2707,7 +2707,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.094
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.750
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2745,7 +2745,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.097
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.753
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2783,7 +2783,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.100
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.755
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2821,7 +2821,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.104
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.758
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2859,7 +2859,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.108
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.760
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2897,7 +2897,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.113
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.763
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2935,7 +2935,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.118
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.765
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -2973,7 +2973,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.123
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.768
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3011,7 +3011,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.128
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.770
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3049,7 +3049,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.133
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.773
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3087,7 +3087,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.139
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.776
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3125,7 +3125,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.144
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.779
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3163,7 +3163,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.149
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.781
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3201,7 +3201,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.157
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.784
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3239,7 +3239,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.161
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.787
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3277,7 +3277,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.169
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.789
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3315,7 +3315,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.172
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.793
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3353,7 +3353,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.176
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.796
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3391,7 +3391,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.183
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.799
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3429,7 +3429,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.190
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.802
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3467,7 +3467,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.197
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.805
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3505,7 +3505,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.202
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.809
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3543,7 +3543,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.206
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.812
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3581,7 +3581,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.210
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.816
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3619,7 +3619,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.214
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.819
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3657,7 +3657,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.217
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.823
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3695,7 +3695,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.222
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.826
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3733,7 +3733,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.226
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.829
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3771,7 +3771,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.231
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.832
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3809,7 +3809,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.236
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.836
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3847,7 +3847,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.240
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.839
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3885,7 +3885,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.245
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.842
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3923,7 +3923,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.250
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.846
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3961,7 +3961,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.256
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.850
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -3999,7 +3999,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.261
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.854
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4037,7 +4037,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.267
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.859
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4075,7 +4075,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.272
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.862
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4113,7 +4113,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.276
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.866
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4151,7 +4151,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.279
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.869
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4189,7 +4189,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.282
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.873
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4227,7 +4227,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.285
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.876
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4265,7 +4265,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.288
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.879
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4303,7 +4303,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.292
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.882
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4341,7 +4341,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.299
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.885
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4379,7 +4379,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.303
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.888
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4417,7 +4417,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.307
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.893
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4455,7 +4455,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.311
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.896
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4493,7 +4493,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.317
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.900
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4531,7 +4531,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.321
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.904
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4569,7 +4569,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.325
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.909
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4607,7 +4607,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.329
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.913
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4645,7 +4645,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.333
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.916
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4683,7 +4683,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.337
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.920
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4721,7 +4721,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.340
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.923
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4759,7 +4759,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.344
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.926
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4797,7 +4797,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.348
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.929
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4835,7 +4835,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.352
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.932
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4873,7 +4873,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.356
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.935
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4911,7 +4911,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.361
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.938
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4949,7 +4949,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.364
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.942
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -4987,7 +4987,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.367
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.945
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5025,7 +5025,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.371
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.949
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5063,7 +5063,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.374
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.952
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5101,7 +5101,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.378
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.955
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5139,7 +5139,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.381
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.958
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5177,7 +5177,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.384
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.961
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5215,7 +5215,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.387
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.964
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5253,7 +5253,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.390
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.967
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5291,7 +5291,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.394
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.970
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5329,7 +5329,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.397
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.972
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5367,7 +5367,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.399
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.975
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5405,7 +5405,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.402
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.978
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5443,7 +5443,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.405
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.981
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5481,7 +5481,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.408
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.984
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5519,7 +5519,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.412
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.987
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5557,7 +5557,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.415
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.990
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5595,7 +5595,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.418
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.993
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5633,7 +5633,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.420
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:13.997
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5671,7 +5671,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.423
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.000
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5709,7 +5709,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.428
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.003
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5747,7 +5747,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.431
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.006
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5785,7 +5785,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.435
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.009
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5823,7 +5823,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.444
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.012
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5861,7 +5861,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.447
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.015
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5899,7 +5899,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.452
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.019
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5937,7 +5937,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.457
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.023
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -5975,7 +5975,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.461
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.026
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6013,7 +6013,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.465
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.029
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6051,7 +6051,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.469
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.032
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6089,7 +6089,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.473
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.034
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6127,7 +6127,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.478
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.037
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6165,7 +6165,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.483
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.040
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6203,7 +6203,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.487
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.043
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6241,7 +6241,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.491
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.046
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6279,7 +6279,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.496
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.049
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6317,7 +6317,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.501
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.051
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6355,7 +6355,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.506
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.054
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6393,7 +6393,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.511
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.057
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6431,7 +6431,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.515
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.060
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6469,7 +6469,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.520
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.063
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6507,7 +6507,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.526
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.066
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6545,7 +6545,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.533
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.069
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6583,7 +6583,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.540
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.071
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6621,7 +6621,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.547
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.075
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6659,7 +6659,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.553
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.078
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6697,7 +6697,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.559
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.081
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6735,7 +6735,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.566
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.084
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6773,7 +6773,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.588
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.087
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6811,7 +6811,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.593
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.091
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6849,7 +6849,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.601
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.094
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6887,7 +6887,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.606
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.097
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6925,7 +6925,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.611
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.100
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -6963,7 +6963,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.614
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.102
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7001,7 +7001,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.619
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.105
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7039,7 +7039,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.623
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.109
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7077,7 +7077,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.629
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.112
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7115,7 +7115,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.634
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.115
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7153,7 +7153,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.639
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.117
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7191,7 +7191,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.646
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.120
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7229,7 +7229,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.651
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.123
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7267,7 +7267,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.655
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.127
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7305,7 +7305,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.659
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.130
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7343,7 +7343,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.664
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.134
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7381,7 +7381,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.668
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.137
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7419,7 +7419,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.672
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.140
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7457,7 +7457,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.677
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.144
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7495,7 +7495,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.680
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.146
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7533,7 +7533,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.684
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.150
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7571,7 +7571,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.687
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.153
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7609,7 +7609,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.691
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.155
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7647,7 +7647,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.697
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.159
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7685,7 +7685,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.701
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.162
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7723,7 +7723,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.705
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.164
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7761,7 +7761,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.708
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.167
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7799,7 +7799,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.713
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.170
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7837,7 +7837,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.717
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.173
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7875,7 +7875,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.720
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.177
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7913,7 +7913,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.723
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.180
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7951,7 +7951,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.726
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.182
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -7989,7 +7989,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.730
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.185
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8027,7 +8027,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.734
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.188
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8065,7 +8065,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.738
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.191
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8103,7 +8103,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.743
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.194
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8141,7 +8141,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.747
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.197
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8179,7 +8179,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.751
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.200
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8217,7 +8217,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.754
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.202
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8255,7 +8255,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.759
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.206
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8293,7 +8293,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.763
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.209
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8331,7 +8331,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.767
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.211
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8369,7 +8369,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.771
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.214
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8407,7 +8407,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.775
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.217
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8445,7 +8445,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.778
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.220
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8483,7 +8483,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.782
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.223
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8521,7 +8521,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.785
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.227
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8559,7 +8559,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.788
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.230
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8597,7 +8597,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.792
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.233
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8635,7 +8635,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.796
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.237
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8673,7 +8673,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.800
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.242
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8711,7 +8711,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.804
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.246
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8749,7 +8749,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.808
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.249
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8787,7 +8787,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.812
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.253
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8825,7 +8825,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.816
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.256
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8863,7 +8863,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.819
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.260
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8901,7 +8901,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.823
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.264
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8939,7 +8939,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.827
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.267
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -8977,7 +8977,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.831
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.270
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9015,7 +9015,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.833
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.274
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9053,7 +9053,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.836
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.277
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9091,7 +9091,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.839
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.280
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9129,7 +9129,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.841
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.283
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9167,7 +9167,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.844
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.286
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9205,7 +9205,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.847
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.289
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9243,7 +9243,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.850
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.293
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9281,7 +9281,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.852
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.296
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9319,7 +9319,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.856
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.299
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9357,7 +9357,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.862
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.302
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9395,7 +9395,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.867
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.305
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9433,7 +9433,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.870
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.309
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9471,7 +9471,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.873
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.311
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9509,7 +9509,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.876
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.315
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9547,7 +9547,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.881
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.317
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9585,7 +9585,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.885
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.320
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9623,7 +9623,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.889
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.323
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9661,7 +9661,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.893
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.326
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9699,7 +9699,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.896
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.329
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9737,7 +9737,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.899
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.332
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9775,7 +9775,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.901
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.335
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9813,7 +9813,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.904
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.338
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9851,7 +9851,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.907
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.341
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9889,7 +9889,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.909
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.344
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9927,7 +9927,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.912
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.348
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -9965,7 +9965,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.915
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.354
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10003,7 +10003,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.917
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.357
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10041,7 +10041,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.920
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.362
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10079,7 +10079,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.922
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.367
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10117,7 +10117,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.925
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.371
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10155,7 +10155,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.929
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.377
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10193,7 +10193,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.932
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.385
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10231,7 +10231,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.935
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.390
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10269,7 +10269,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.938
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.395
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10307,7 +10307,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.941
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.399
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10345,7 +10345,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.946
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.405
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10383,7 +10383,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.949
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.411
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10421,7 +10421,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.952
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.416
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10459,7 +10459,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.956
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.420
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10497,7 +10497,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.958
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.424
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10535,7 +10535,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.962
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.427
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10573,7 +10573,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.965
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.430
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10611,7 +10611,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.969
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.433
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10649,7 +10649,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.973
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.435
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10687,7 +10687,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.977
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.438
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10725,7 +10725,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.980
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.440
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10763,7 +10763,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.982
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.444
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10801,7 +10801,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.985
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.447
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10839,7 +10839,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.988
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.449
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10877,7 +10877,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.991
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.452
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10915,7 +10915,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.994
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.454
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10953,7 +10953,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:21.997
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.457
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -10991,7 +10991,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.000
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.460
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11029,7 +11029,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.003
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.464
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11067,7 +11067,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.006
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.467
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11105,7 +11105,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.010
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.470
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11143,7 +11143,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.012
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.473
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11181,7 +11181,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.015
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.476
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11219,7 +11219,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.018
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.479
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11257,7 +11257,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.021
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.482
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11295,7 +11295,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.025
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.485
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11333,7 +11333,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.028
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.487
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11371,7 +11371,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.031
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.490
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11409,7 +11409,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.035
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.494
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11447,7 +11447,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.038
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.497
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11485,7 +11485,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.042
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.500
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11523,7 +11523,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.045
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.503
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11561,7 +11561,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.048
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.506
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11599,7 +11599,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.051
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.509
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11637,7 +11637,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.055
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.512
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11675,7 +11675,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.058
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.515
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11713,7 +11713,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.062
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.518
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11751,7 +11751,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.068
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.522
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11789,7 +11789,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.071
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.526
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11827,7 +11827,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.077
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.529
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11865,7 +11865,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.081
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.533
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11903,7 +11903,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.086
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.537
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11941,7 +11941,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.089
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.539
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -11979,7 +11979,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.095
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.545
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12017,7 +12017,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.098
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.553
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12055,7 +12055,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.102
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.563
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12093,7 +12093,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.105
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.570
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12131,7 +12131,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.108
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.580
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12169,7 +12169,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.113
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.588
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12207,7 +12207,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.117
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.594
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12245,7 +12245,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.121
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.599
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12283,7 +12283,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.125
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.602
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12321,7 +12321,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.128
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.607
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12359,7 +12359,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.132
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.612
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12397,7 +12397,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.134
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.617
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12435,7 +12435,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.138
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.621
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12473,7 +12473,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.140
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.624
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12511,7 +12511,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.145
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.627
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12549,7 +12549,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.149
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.631
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12587,7 +12587,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.153
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.634
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12625,7 +12625,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.157
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.637
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12663,7 +12663,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.161
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.640
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12701,7 +12701,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.164
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.644
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12739,7 +12739,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.167
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.647
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12777,7 +12777,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.170
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.650
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12815,7 +12815,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.174
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.653
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12853,7 +12853,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.178
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.656
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12891,7 +12891,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.181
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.660
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12929,7 +12929,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.184
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.663
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -12967,7 +12967,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.187
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.666
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13005,7 +13005,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.191
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.669
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13043,7 +13043,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.196
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.674
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13081,7 +13081,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.200
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.678
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13119,7 +13119,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.203
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.682
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13157,7 +13157,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.207
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.686
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13195,7 +13195,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.211
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.690
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13233,7 +13233,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.215
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.694
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13271,7 +13271,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.219
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.699
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13309,7 +13309,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.222
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.703
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13347,7 +13347,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.225
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.708
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13385,7 +13385,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.229
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.712
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13423,7 +13423,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.233
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.717
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13461,7 +13461,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.237
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.722
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13499,7 +13499,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.240
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.728
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13537,7 +13537,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.243
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.732
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13575,7 +13575,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.247
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.737
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13613,7 +13613,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.250
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.741
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13651,7 +13651,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.253
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.746
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13689,7 +13689,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.255
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.750
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13727,7 +13727,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.259
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.755
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13765,7 +13765,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.262
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.760
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13803,7 +13803,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.265
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.765
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13841,7 +13841,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.269
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.772
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13879,7 +13879,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.272
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.783
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13917,7 +13917,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.275
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.790
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13955,7 +13955,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.278
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.797
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
@@ -13993,7 +13993,7 @@ java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.int
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
 
-!ENTRY org.eclipse.ui 4 0 2025-09-11 19:31:22.281
+!ENTRY org.eclipse.ui 4 0 2025-09-11 19:32:14.802
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NoSuchMethodError: 'org.eclipse.swt.graphics.Point org.eclipse.swt.internal.DPIUtil.autoScaleDown(org.eclipse.swt.graphics.Point)'
