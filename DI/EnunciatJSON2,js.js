@@ -8,7 +8,7 @@ const llistat_Id_Nom_Email = () => {
 }
 
 const llistat_Id_Nom_Email_reduce = () => {
-    
+
     return dadesUsuaris.reduce((ac, ele) => {
         ac.push({ id: ele.id, name: ele.name, email: ele.email })
         return ac;
@@ -27,12 +27,12 @@ const llistaAmbAddress = () => {
 }
 
 const llistaIds_EmpresesSenseWebsite = () => {
-    
-   const lis4 = dadesUsuaris.filter((vari) => vari.website === "");
+
+    const lis4 = dadesUsuaris.filter((vari) => vari.website === "");
     return lis4.map(va => ({
         id: va.id
-}))
-    
+    }))
+
 }
 
 const dadesUsuaris = [
@@ -197,7 +197,7 @@ console.log(llistaIds_EmpresesSenseWebsite());
 console.log("-----------------");
 const esWebsiteBuit = (usuari) => {
     return usuari.website.length === 0
-      
+
 }
 console.log(esWebsiteBuit(dadesUsuaris[4]));
 //Crear una funció tornaId(usuari) que donat un usuari em torne un objecte id
@@ -212,9 +212,24 @@ console.log(tornaId(dadesUsuaris[1]));
 //[{ id: 2 }, { id: 5 }]
 console.log("-----------------");
 const tornaWeb = () => {
-    return dadesUsuaris.filter(ele => ele.website == "")
+    const lis5 =  dadesUsuaris.filter(ele => ele.website == "");
+    return lis5.reduce((ac, varia) => {
+        ac.push({ id: varia.id });
+        return ac;
+    },[]);
 
 }
+console.log(tornaWeb());
 //reduce en una sola línia
 // [ { id: 2 }, { id: 5 } ]
 console.log("-----------------");
+const tornaWeb2 = () => {
+    return dadesUsuaris.filter(ele => ele.website == "").reduce((accc, e) => {accc.push({ id: e.id });
+            return accc;
+        }, []);
+}
+console.log(tornaWeb2());
+/* return dadesUsuaris.reduce((ac, ele) => {
+        ac.push({ id: ele.id, name: ele.name, email: ele.email })
+        return ac;
+    }, []);*/
