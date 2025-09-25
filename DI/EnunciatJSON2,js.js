@@ -13,7 +13,7 @@ const llistat_Id_Nom_Email_reduce = () => {
         ac.push({ id: ele.id, name: ele.name, email: ele.email })
         return ac;
     }, []);
-    console.log(lis2);
+    //console.log(lis2);
 }
 
 const llistaAmbAddress = () => {
@@ -23,16 +23,12 @@ const llistaAmbAddress = () => {
         email: elem.email,
         address: elem.address.street + " " + elem.address.city + " " + elem.address.suite + " " + elem.address.zipcode
     }))
-    console.log(lis3);
+    //console.log(lis3);
 }
 
 const llistaIds_EmpresesSenseWebsite = () => {
 
-    const lis4 = dadesUsuaris.filter((vari) => vari.website === "");
-    return lis4.map(va => ({
-        id: va.id
-    }))
-
+    return dadesUsuaris.filter((vari) => vari.website === "").map(va => ({id: va.id}))
 }
 
 const dadesUsuaris = [
@@ -229,7 +225,5 @@ const tornaWeb2 = () => {
         }, []);
 }
 console.log(tornaWeb2());
-/* return dadesUsuaris.reduce((ac, ele) => {
-        ac.push({ id: ele.id, name: ele.name, email: ele.email })
-        return ac;
-    }, []);*/
+// hoalalallala
+// consolidado
