@@ -208,8 +208,7 @@ console.log(tornaId(dadesUsuaris[1]));
 //[{ id: 2 }, { id: 5 }]
 console.log("-----------------");
 const tornaWeb = () => {
-    const lis5 =  dadesUsuaris.filter(ele => ele.website == "");
-    return lis5.reduce((ac, varia) => {
+    return dadesUsuaris.filter(ele => ele.website == "").reduce((ac, varia) => {
         ac.push({ id: varia.id });
         return ac;
     },[]);
