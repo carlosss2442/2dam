@@ -224,5 +224,4 @@ const tornaWeb2 = () => {
         }, []);
 }
 console.log(tornaWeb2());
-// hoalalallala
-// consolidado
+
