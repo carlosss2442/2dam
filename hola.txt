@@ -1,0 +1,309 @@
+import { StyleSheet, Text, View } from "react-native";
+import { getFitxaEquip, getObjEquip } from "../../utils/funcionsEquips";
+import InfoEquip from "../infoEquip/infoEquip";
+
+
+/**
+ * Mostra la informació d'un partit en forma de targeta.
+ * Un partit consta de dos equips (local i visitant), l'hora a la que es jugarà el partit,
+ * l'estadi on es jugarà el partit. Si no es posa estadi, es mostrarà l'estadi de
+ * l'equip local.
+ *
+ * @component
+ *
+ * @param {Object} props - Propietats del component.
+ * @param {string} props.local - Nom de l'equip local (qui juga 'en casa').
+ * @param {string} props.visitant - Nom de l'equip visitant.
+ * @param {string} props.hora - Hora del partit.
+ * @param {string} [props.estadi] - prop opcional. Si s'omet es mostra l'estadi de l'equip local
+ * @requires module:components/infoEquip.InfoEquip
+ * @requires module:utils/funcionsEquips.getFitxaEquip
+ * @requires module:utils/funcionsEquips.getObjEquip
+ * @example
+ * <InfoPartit
+ *   local="Valencia"
+ *   visitant="Barcelona"
+ *   hora="20:30"
+ *   estadi="Estadi Municipal Toni Puchades (Sueca)"
+ * />
+ */
+const InfoPartit = ({ local, visitant, hora, estadi=null, golLocal = null, golVisitant = null}) => {
+  //Obtenim la fitxa dels equips (local i visitant)
+  const objecte = getObjEquip(local);
+  const equipLocal = getFitxaEquip(objecte);
+
+  const objecte2 = getObjEquip(visitant);
+  const equipVisitant = getFitxaEquip(objecte2);
+
+ const colorResultadoLocal = parseInt(golLocal) > parseInt(golVisitant) ? "green" : 
+  parseInt(golVisitant) > parseInt(golLocal) ? "red" : "blue";
+
+const colorResultadoVisitant = parseInt(golVisitant) > parseInt(golLocal) ? "green" :
+  parseInt(golLocal) > parseInt(golVisitant) ? "red" : "blue";
+
+  return (
+    <View style={styles.container}>
+      <View style={{flex:0.25 ,flexDirection:'row', alignItems:'center', }}>
+        <Text style={{fontWeight:'bold', fontSize: 15}}>{hora} </Text>
+        <Text style={{fontWeight:'bold', fontSize: 15}}>{estadi===null?equipLocal.estadi:estadi}</Text>        
+      </View>
+      <View style={{flex:1 ,flexDirection:'row', alignContent:"space-evenly"}}>
+          <InfoEquip nom={equipLocal.nom}/>
+          <InfoEquip nom={equipVisitant.nom}/>
+      </View>
+      <View style={{flexDirection: 'colum', flex: 0.25, alignItems: "center",marginTop: "1%"}}>
+    <Text style={{fontSize: 20, fontWeight: 'bold'}}>Resultat: </Text>
+    {golLocal === null || golVisitant === null ? (
+      <Text style={{fontSize: 20, fontWeight: 'bold'}}>No disponible, no se ha jugado</Text>
+    ) : (
+      <Text style={{fontSize: 20, fontWeight: 'bold'}}>
+        <Text style={{color: colorResultadoLocal}}>{golLocal}</Text>
+        { "---" }
+        <Text style={{color: colorResultadoVisitant}}>{golVisitant}</Text>
+      </Text>
+    )}
+      </View>
+    </View>
+
+  );
+};
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    margin: 5,
+    backgroundColor: "#ecf0deff",
+    alignItems: "center",
+    borderColor: "black",
+    borderWidth: 1,
+    borderRadius: 5,
+    height: 340
+  },
+  escutEquip: {
+    flex: 1,
+    aspectRatio: 1,
+  },
+  nomEquip: {
+    flex: 0.3,
+    textAlign: "center",
+    fontWeight: "bold",
+    fontSize: 18,
+  },
+});
+export default InfoPartit;
+
+
+import {React, useEffect} from 'react';
+import { StyleSheet, Text, View, Image } from "react-native";
+import { getFitxaEquip, getObjEquip } from "../../utils/funcionsEquips";
+
+/**
+ * Mostra la informació d'un equip en forma de targeta. La informació 
+ * es mostra verticalment, una baix de l'altra.
+ * Consta de la imatge de l'escut de l'equip de futbol, el nom de l'equip i l'any de fundació. 
+ *
+ * @component
+ *
+ * @param {Object} props - Propietats del component.
+ * @param {string} props.nom - Nom de l'equip del qual volem mostrar la informació .
+ * @requires module:utils/funcionsEquips.getFitxaEquip
+ * @requires module:utils/funcionsEquips.getObjEquip
+ * @example
+ * <InfoEquip nom="Valencia" />
+ */
+
+const InfoEquip = ({ nom }) => {
+
+  //Obtenim la fitxa de l'equip
+  const objecte = getObjEquip(nom);
+  const fitxaEquip = getFitxaEquip(objecte);
+
+   const colorsByTeam = {
+    Barcelona: "#3b5998",
+    Girona: "red",
+    Valencia: "#ff9800",
+    Villarreal: "#fff700ff",
+    Levante: "#ff000098",
+    Elche: "green",
+    Mallorca: "red",
+    Sevilla: "light-blue",
+  };
+
+  const coloresFondo = colorsByTeam[nom] || "#d8fb59ff";
+  
+  return (
+    <View style={[styles.container, {backgroundColor: coloresFondo}]}>
+      <View style={{flex:2, flexDirection:'column'}}>
+        <Image
+          style={styles.escutEquip}
+          resizeMode="contain"
+          source={{
+            uri: fitxaEquip.imatgeEscut,
+          }}
+        />
+      </View>
+      <View style={{alignItems: "center",justifyContent: "center", flex: 1, margin:5}}>
+          <Text  style={styles.nomEquip}>{fitxaEquip.nom}</Text>
+          <Text style={styles.anyFundacio}>{fitxaEquip.anyFundacio}</Text>
+      </View>
+
+    </View>
+  );
+};
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    margin: 5,
+    backgroundColor: "#d8fb59ff",
+    alignItems: "center",
+    alignContent:"center",
+    borderColor: "black",
+    borderWidth: 1,
+    borderRadius: 5,
+    minHeight:'10%',
+    minWidth:'10%'
+  },
+  escutEquip: {
+    flex: 1,
+    aspectRatio: 1,
+    margin:'1%',
+    height: 80,
+    width: 60,
+  },
+  nomEquip: {
+    textAlign: "center",
+    fontWeight: "bold",
+    fontSize: 18,
+  },
+  anyFundacio: {
+    textAlign: "center",
+    fontSize: 18,
+    color: "black",
+    fontWeight: 'bold'
+  },
+});
+export default InfoEquip;
+import { React, useState } from "react";
+import { StyleSheet, Text, View, ScrollView } from "react-native";
+import { Searchbar, Provider, } from "react-native-paper";
+import InfoPartit from "./components/infoPartit/infoPartit";
+import CercaNoTrobada from "./components/cercaNoTrobada/cercaNoTrobada";
+
+
+/**
+ * Punt d'entrada principal de l'aplicació React Native.
+ *
+ * @module App
+ * @description
+ * Inicialitza la llista de partits a mostrar, i permet realitzar una cerca de partits 
+ * mostrant els resultats autimàticamen.
+ * Aquest component encapsula l'estructura general i registra la UI.
+ */
+
+const App = () => {
+  //Llistat de partits a jugar
+  const unaPossibleLlista = [
+    { local: "Valencia", visitant: "Barcelona", hora: "20:30", golLocal: "3", golVisitant:"5" },
+    { local: "Levante", visitant: "Villarreal", hora: "20:30" },
+    {
+      local: "Elche",
+      visitant: "Girona",
+      hora: "20:30",
+      estadi: "Estadi Municipal Toni Puchades, (Sueca)", golLocal: "3", golVisitant:"1"
+    },
+    { local: "Mallorca", visitant: "Sevilla", hora: "21:00", golLocal: "1", golVisitant:"1" }
+  ];
+
+  const [llistatPartits, actualitzaLlistaPartits] = useState(unaPossibleLlista);
+  const [criteriDeCerca, setCriteriDeCerca] = useState("");
+
+  //aquesta funció desa (guarda) el criteri de cerca i filtra si hi ha
+  // algun partit amb equips que complpisquen el criteri de cerca
+  const desaCercaIFiltra = (unTextDeCerca) => {
+    setCriteriDeCerca(unTextDeCerca);
+    cercaElPartitDunEquip(unTextDeCerca);
+  };
+
+  // a partir d'un criteri de cerca, busca si hi ha algun partit on s'enfronten
+  // equips que tinguen un nom que compleix el criteri de cerca.
+  const cercaElPartitDunEquip = (lletresDunEquip) => {
+    if (lletresDunEquip === "") actualitzaLlistaPartits(unaPossibleLlista);
+    else {
+      const cerca = unaPossibleLlista.filter(
+        (unPartit) =>
+          unPartit.local
+            .toLowerCase()
+            .includes(lletresDunEquip.toLowerCase()) ||
+          unPartit.visitant
+            .toLowerCase()
+            .includes(lletresDunEquip.toLowerCase())
+      );
+      actualitzaLlistaPartits(cerca);
+    }
+  };
+  return (
+    <ScrollView>
+      <Provider>
+        <View style={styles.container}>
+          <View style={{ flex: 0.3, margin: "1%" }}>
+            <Searchbar
+              placeholder="Cercar un partit ..."
+              onChangeText={desaCercaIFiltra}
+              onClearIconPress={() => actualitzaLlistaPartits(unaPossibleLlista)}
+              value={criteriDeCerca}
+              mode="bar"
+              style={{ backgroundColor: "#d8fb59ff" }}
+              inputStyle={{ color: "green", fontSize: 25 }}
+            />
+          </View>
+          <View style={{ flex: 4 }}>
+            <View style={{ flex: 1 }}>
+              <Text style={styles.titol}>Llistat de partits:</Text>
+              {llistatPartits.length === 0 ? (
+                <CercaNoTrobada
+                  missatgeError="No he trobat cap partit amb equips que continguen:"
+                  textACercar={criteriDeCerca}
+                />
+              ) : (
+                llistatPartits.map((unPartit, index) => {
+                  return (
+                    <View style={styles.targetaPartit} key={unPartit.local + index}>
+                      <InfoPartit
+                        local={unPartit.local}
+                        visitant={unPartit.visitant}
+                        hora={unPartit.hora}
+                        estadi={unPartit.estadi}
+                        golLocal={unPartit.golLocal}
+                        golVisitant={unPartit.golVisitant}
+                      />
+                    </View>
+                  );
+                })
+              )}
+            </View>
+          </View>
+        </View>
+      </Provider>
+    </ScrollView>
+  );
+};
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    marginTop: 20,
+    backgroundColor: "#fff",
+  },
+  titol: {
+    fontSize: 25,
+    fontWeight: "bold",
+    textAlign: "center",
+  },
+  targetaPartit: {
+    flex: 0.25,
+    minHeight: 200,
+  },
+});
+export default App;
+
